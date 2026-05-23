@@ -9,7 +9,8 @@ namespace Array_Operations.Leet_Code.Patterns
 
     // Benefits: Turn array related problems from O(n^2) to O(n)
 
-    internal class Monotonic_Stack
+    internal class MonotonicStack
     {
+
     }
 }
