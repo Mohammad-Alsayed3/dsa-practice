@@ -1,5 +1,6 @@
 ﻿using Array_Operations.DS;
 using Array_Operations.Leet_Code.Problems.ArraysAndHashing;
+using Array_Operations.Leet_Code.Problems.Two_Pointers;
 using Array_Operations.Leet_Code.Two_Pointers;
 using System.Text;
 
